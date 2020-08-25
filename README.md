@@ -16,6 +16,7 @@ Serve para manter um ambiente estático de versões de python e bibliotecas.
     - para ativar o ambiente: `activate <nome_do_ambiente>`
     - para desativar o ambiente, voltando para o ambiente "root": `deactivate`
     - para ver, via console, os ambientes criados: `conda info --envs`
+    - para remover um ambiente criado: `remove --name <nome_do_ambiente> --all`
 4. No "Anaconda Navigator":
     - em "Home", combo "Applications on" selecionar o ambiente criado
     - instalar o jupyter notebook novamente para aquele ambiente
