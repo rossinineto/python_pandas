@@ -9,8 +9,8 @@
   
 ### Troubleshooting
   
-1. Anaconda Navegador não starta.  
-Executando no console `anaconda-navegador` para abrir o dashboard de aplicações da Anaconda,  
+1. Anaconda Navigator não starta.  
+Executando no console `anaconda-navigator` para abrir o dashboard de aplicações da Anaconda,  
 nota-se pelos erros a falha de importação de bibliotecas.  
 Depois de algumas tentativas de anular a verificação de ssl:  
 `conda config --set ssl_verify false`  
