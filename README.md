@@ -16,7 +16,7 @@ Depois de algumas tentativas de anular a verificação de ssl:
 `conda config --set ssl_verify false`  
 e depois tentar importar as bibliotecas:  
 `conda remove <pacote>`  
-`conda install <pacote>` 
+`conda install <pacote>`  
 a solução foi desinstalar todas as instalações de python e remoção de pastas de configuração.  
 Depois restart da máquina e instalação do Anaconda novamente.
   
