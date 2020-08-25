@@ -7,7 +7,7 @@
     - raiz da pasta de instalação da Anaconda
     - pasta "Scripts" da pasta de instalação da Anaconda
   
-### Trobleshooting
+### Troubleshooting
   
 1. Anaconda Navegador não starta.  
 Executando no console `anaconda-navegador` para abrir o dashboard de aplicações da Anaconda,  
