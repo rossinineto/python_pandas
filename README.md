@@ -11,14 +11,14 @@
 ### Criando ambientes virtuais
 Serve para manter um ambiente estático de versões de python e bibliotecas.  
   
-3. No console, `conda create --name <nome_do_ambiente> python=<versao> pandas=<versao>`  
+4. No console, `conda create --name <nome_do_ambiente> python=<versao> pandas=<versao>`  
     As pastas dos ambientes criados ficam em `<home>/envs`.  
     - depois de criar, no Anaconda Navigator, na barra nav tem "environments"... lá estará o ambiente criado
     - para ativar o ambiente: `activate <nome_do_ambiente>`
     - para desativar o ambiente, voltando para o ambiente "root": `deactivate`
     - para ver, via console, os ambientes criados: `conda info --envs`
     - para remover um ambiente criado: `remove --name <nome_do_ambiente> --all`
-4. No "Anaconda Navigator":
+5. No "Anaconda Navigator":
     - em "Home", combo "Applications on" selecionar o ambiente criado
     - instalar o jupyter notebook novamente para aquele ambiente
   
