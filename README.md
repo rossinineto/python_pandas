@@ -1,5 +1,6 @@
 # Data Science com Python (trabalhando com Pandas)  
-[Documentação do Pandas](https://pandas.pydata.org/docs/)
+[Documentação do Pandas](https://pandas.pydata.org/docs/)  
+[Certificados](/certificados)
   
 ## Criando o ambiente
   
